@@ -2,3 +2,4 @@
 
 
 https://nickswanson.org
+https://nickswanson.org/
