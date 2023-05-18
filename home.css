@@ -2181,6 +2181,10 @@ html, body {
   overflow-x: hidden;
 }
 
+.email-link{
+  text-decoration: underline;
+}
+
 .marquee {
   padding-top: 60px;
   padding-bottom: 10px;
