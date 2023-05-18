@@ -1,4 +1,4 @@
 # Personal Website
 
 
-https://nickswanson15.github.io/PersonalWebsite/
+https://nickswanson.org
