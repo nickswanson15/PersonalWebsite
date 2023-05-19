@@ -903,10 +903,11 @@
   flex-direction: column;
   justify-content: center;
   text-decoration: none;
+  border-radius: 20px;
   background-color: var(--dl-color-gray-white);
 }
 .home-project-card:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 .home-text24 {
   font-size: 18px;
@@ -949,10 +950,11 @@
   flex-direction: column;
   justify-content: center;
   text-decoration: none;
+  border-radius: 20px;
   background-color: var(--dl-color-gray-white);
 }
 .home-project-card1:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 .home-text28 {
   font-size: 18px;
@@ -984,10 +986,11 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: center;
   text-decoration: none;
+  border-radius: 20px;
   background-color: var(--dl-color-gray-white);
 }
 .home-project-card2:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 .home-text32 {
   font-size: 18px;
@@ -1014,10 +1017,11 @@
   flex-direction: column;
   justify-content: center;
   text-decoration: none;
+  border-radius: 20px;
   background-color: var(--dl-color-gray-white);
 }
 .home-project-card3:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 .home-text34 {
   font-size: 18px;
@@ -1382,6 +1386,7 @@
     padding-right: var(--dl-space-space-twounits);
     padding-bottom: var(--dl-space-space-twounits);
     justify-content: center;
+    border-radius: 20px;
     background-color: var(--dl-color-gray-white);
   }
   .home-text24 {
@@ -1416,6 +1421,7 @@
     align-items: center;
     margin-bottom: 10px;
     justify-content: center;
+    border-radius: 20px;
     background-color: var(--dl-color-gray-white);
   }
   .home-text28 {
@@ -1438,6 +1444,7 @@
     margin-top: 10px;
     align-items: center;
     justify-content: center;
+    border-radius: 20px;
     background-color: var(--dl-color-gray-white);
   }
   .home-text32 {
@@ -1461,6 +1468,7 @@
     position: absolute;
     align-items: center;
     justify-content: center;
+    border-radius: 20px;
     background-color: var(--dl-color-gray-white);
   }
   .home-text34 {
