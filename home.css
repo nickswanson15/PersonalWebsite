@@ -101,7 +101,7 @@
   margin-top: 10%;
   object-fit: cover;
   text-decoration: none;
-  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 .home-education {
   width: 100%;
@@ -1225,7 +1225,7 @@
     width: 400px;
     height: 550px;
     margin-top: 10%;
-    box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
   }
   .home-education {
     padding-bottom: 10px;
