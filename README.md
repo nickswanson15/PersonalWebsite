@@ -1,3 +1,3 @@
-# Personal Website1
+# Personal Websit
 
 https://nickswanson.org
